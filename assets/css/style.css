@@ -1,0 +1,66 @@
+body {
+  background-image: url("../img/sfondo legno.jpg");
+  background-size: cover;
+}
+
+/*contenitore complessivo*/
+.contenitorecomplex {
+  width: 80%;
+  margin: auto;
+}
+
+/*header*/
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.nomeapp {
+  color: white;
+}
+
+/*blocco unread mail*/
+.unreadmail {
+  color: white;
+}
+
+.numerotondo {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+/*bloccomail*/
+.singolamail {
+  background-color: lightgray;
+  border: solid;
+  border-color: black;
+  border-width: thin;
+  padding-bottom: 2px;
+}
+
+#secondamail {
+  background-color: white;
+  border: solid;
+  border-color: black;
+  border-width: thin;
+  padding-bottom: 2px;
+}
+
+.stella {
+  height: 15px;
+  width: 15px;
+}
+
+.testomail {
+  color: gray;
+}
+
+/*footer*/
+.footer {
+  color: white;
+  text-align:center;
+}
+#gmailfooter {
+  font-size: 30px;
+}
